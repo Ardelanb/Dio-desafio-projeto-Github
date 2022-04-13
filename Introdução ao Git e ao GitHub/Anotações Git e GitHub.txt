@@ -1,0 +1,35 @@
+PRINCIPAIS FUNÇÕES DO GIT/GITHUB
+
+1.	Controle de versão
+2.	Armazenamento eu nuvem
+3.	Trabalho em equipe
+4.	Melhorar o seu código
+5.	Reconhecimento
+
+
+COMANDOS TERMINAL GIT
+•	Cls = Limpar terminal
+•	Mkdir = criar uma pasta
+•	Cd .. = sair da pasta
+•	del = deleta um arquivo dentro de uma pasta criada 
+•	rmdir = excluir pasta
+•	dir = listar arquivos 
+
+
+
+SHA1
+A Sigla SHA significa Secure Hash Algorithm (algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+
+A encriptação gera um conjunto de caracteres identificador de 40 dígitos.
+
+Objetos Fundamentais
+•	BLOBS
+•	TREES
+•	COMMITS
+
+Chaves SSH e Tokens
+
+
+- git init
+-git add
+-git commit
